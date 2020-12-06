@@ -44,6 +44,7 @@ The notebooks can be helpful in the following ways:
 2. Learn how to use Jupyter Notebook, and python libraries numpy, pandas and matplotlib 
 3. Clone this repo and make a new branch
 4. Each ipynb file should be able to stand independently so you should be able to open it using Jupyter Notebook
+5. Join the Gitter channel (link at bottom), introduce yourself and tell about your experience/expectations
 
 
 
@@ -85,3 +86,6 @@ and do not replace the importance of doing a course/project purely based on mach
 ## Who to contact?
 The project was started by PetalsOnWind (Pankhuri Saxena, a fourth year Economics student at IIT KGP).
 She can be reached at pankhurisaxena[dot]iitkgp[at]gmail[dot]com.
+
+Gitter channel
+[Link](https://gitter.im/Statistics-and-Econometrics-for-Data-Science/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link) [![Gitter](https://badges.gitter.im/Statistics-and-Econometrics-for-Data-Science/community.svg)](https://gitter.im/Statistics-and-Econometrics-for-Data-Science/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
