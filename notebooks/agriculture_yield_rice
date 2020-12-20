@@ -1,0 +1,7 @@
+import pandas as pd
+import numpy as np
+df=pd.read_csv("Dataset.csv")
+df
+df1=pd.get_dummies(df['Irrigation'])
+df2=pd.concat([df1,df],axis=1)
+df2
