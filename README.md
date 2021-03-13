@@ -1,7 +1,11 @@
 Possible project for Kharagpur Winter of Code 2020
 
 # Statistics and Econometrics for Data Science
-
+![GitHub Repo stars](https://img.shields.io/github/stars/PetalsOnWind/Statistics-and-Econometrics-for-Data-Science?color=2E61C5&logo=Github&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/PetalsOnWind/Statistics-and-Econometrics-for-Data-Science?color=2E61C5&logo=Github&style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/PetalsOnWind/Statistics-and-Econometrics-for-Data-Science?color=2E61C5&logo=Github&style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/PetalsOnWind/Statistics-and-Econometrics-for-Data-Science?logo=Github&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/PetalsOnWind/Statistics-and-Econometrics-for-Data-Science?logo=Github&style=for-the-badge)
 
 ## Table of Contents
 1. How are the topics even related to ML?
