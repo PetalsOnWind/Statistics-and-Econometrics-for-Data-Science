@@ -85,3 +85,17 @@ and do not replace the importance of doing a course/project purely based on mach
 ## Who to contact?
 The project was started by PetalsOnWind (Pankhuri Saxena, a fourth year Economics student at IIT KGP).
 She can be reached at pankhurisaxena[dot]iitkgp[at]gmail[dot]com.
+
+## Contributors:
+
+### Credits goes to these people:✨
+
+<table>
+	<tr>
+		<td>
+<a href="https://github.com/PetalsOnWind/Statistics-and-Econometrics-for-Data-Science/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PetalsOnWind/Statistics-and-Econometrics-for-Data-Science" />
+</a>
+		</td>
+	</tr>
+</table>
