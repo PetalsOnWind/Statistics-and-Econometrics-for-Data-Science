@@ -15,4 +15,10 @@ Possible topics for notebooks
 - Poisson Process
 - Simulation
 - Panel Data
+- Cramer-Rao Lower Bound
+- Convergence
+- Limit Theorems
+- Decision Tree Algorithm
+- Understanding Transformations
+- Moment Generating Functions
 - ...and more
