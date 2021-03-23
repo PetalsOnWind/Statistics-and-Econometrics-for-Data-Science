@@ -21,4 +21,10 @@ Possible topics for notebooks
 - Decision Tree Algorithm
 - Understanding Transformations
 - Moment Generating Functions
-- ...and more
+
+-logistic regression
+-K means clustering
+-Basic Bayesian thinking & modeling
+-Markov Chains
+-correlation
+
