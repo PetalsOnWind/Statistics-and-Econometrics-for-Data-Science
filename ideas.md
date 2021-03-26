@@ -21,4 +21,10 @@ Possible topics for notebooks
 - Decision Tree Algorithm
 - Understanding Transformations
 - Moment Generating Functions
+- Descriptive Statistics
+- Statistical Significance
+- Logistic Regression
+- K-Means Clustering
+- K Nearest Neighbours
+- Data Visualization
 - ...and more
