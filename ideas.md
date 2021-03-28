@@ -23,6 +23,11 @@ Possible topics for notebooks
 - Moment Generating Functions
 - Dividing and conquering with bisection methods
 - Approximating values with Taylor polynomials
+- Principal Component Analysis
+- hierarchy models
+- Bayesian Analysis
+- Independent Component Analysis
+- Singular Value Decomposition
 
 
 
