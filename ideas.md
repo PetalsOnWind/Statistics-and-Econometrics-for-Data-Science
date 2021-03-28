@@ -21,4 +21,8 @@ Possible topics for notebooks
 - Decision Tree Algorithm
 - Understanding Transformations
 - Moment Generating Functions
-- ...and more
+- Dividing and conquering with bisection methods
+- Approximating values with Taylor polynomials
+
+
+
