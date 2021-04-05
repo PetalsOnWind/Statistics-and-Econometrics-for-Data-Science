@@ -90,6 +90,12 @@ and do not replace the importance of doing a course/project purely based on mach
 The project was started by PetalsOnWind (Pankhuri Saxena, a fourth-year Economics student at IIT KGP).
 She can be reached at pankhurisaxena[dot]iitkgp[at]gmail[dot]com.
 
+## Open Source programs that Statistics and Econometrics for Data Science is a part of:
+
+<p align="center">
+ <a>
+ <img  width="50%" height="20%" src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png">
+
 ## Contributors:
 
 ### Credits goes to these people:✨
