@@ -94,7 +94,7 @@ She can be reached at pankhurisaxena[dot]iitkgp[at]gmail[dot]com.
 
 <p align="center">
  <a>
- <img  width="50%" height="20%" src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png">
+ <img  width="50%" height="30%" src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png">
 
 ## Contributors:
 
