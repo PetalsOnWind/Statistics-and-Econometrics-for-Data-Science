@@ -1,4 +1,4 @@
-Possible project for Kharagpur Winter of Code 2020
+A possible project for Kharagpur Winter of Code 2020
 
 # Statistics and Econometrics for Data Science
 ![GitHub Repo stars](https://img.shields.io/github/stars/PetalsOnWind/Statistics-and-Econometrics-for-Data-Science?color=2E61C5&logo=Github&style=for-the-badge)
@@ -22,7 +22,7 @@ Possible project for Kharagpur Winter of Code 2020
 ## How are the topics even related to ML?
 Often while building models in ML we become too concerned with accuracy and forget whether
 the model does what we initially set out to do. Statistics and Econometrics help in
-building better models and understanding the data. They can help in better feature engineering,
+building better models and understanding the data. They can help in better feature engineering
 and a better understanding of the assumptions which can help in ultimately building better models.
 Running linear regression sounds easy but what if someone asks you what assumptions you made
 while running the model. If your answer is "Umm..." then you are on the track to understanding
@@ -103,3 +103,5 @@ She can be reached at pankhurisaxena[dot]iitkgp[at]gmail[dot]com.
 		</td>
 	</tr>
 </table>
+
+
