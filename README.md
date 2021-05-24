@@ -1,4 +1,4 @@
-Possible project for Kharagpur Winter of Code 2020
+A possible project for Kharagpur Winter of Code 2020
 
 # Statistics and Econometrics for Data Science
 ![GitHub Repo stars](https://img.shields.io/github/stars/PetalsOnWind/Statistics-and-Econometrics-for-Data-Science?color=2E61C5&logo=Github&style=for-the-badge)
@@ -20,12 +20,12 @@ Possible project for Kharagpur Winter of Code 2020
  
  
 ## How are the topics even related to ML?
-Often while building models in ML we become too concerned with accuracy and forget whether
+While building models in ML, we often become too concerned with accuracy and forget whether
 the model does what we initially set out to do. Statistics and Econometrics help in
-building better models and understanding the data. They can help in better feature engineering,
+building better models and understanding the data. They can help in better feature engineering
 and a better understanding of the assumptions which can help in ultimately building better models.
 Running linear regression sounds easy but what if someone asks you what assumptions you made
-while running the model. If your answer is "Umm..." then you are on the track to understanding
+while running the model. If your answer is "Umm...", you are on the track to understanding
 what these topics can contribute to ML (if you didn't already know). 
  
 Due to certain limitations, for the time being, we are concerned with only Linear Regression.
@@ -35,7 +35,7 @@ This is just a very small subset of ML but let's start with tiny steps to progre
  
 ## What will the project entail?
 The project aims to have a series of notebooks that will help in understanding the basic topics.
-The notebooks could be used to get a broad overview of the topic or to quickly revise the topic.
+The notebooks could get a broad overview of the topic or quickly revise the topic.
 The notebooks can be helpful in the following ways:
 - You are participating in a competition and you want to run some quick checks on the data/model
 - You are sitting for internship/placement and need to revise some topics fast
@@ -69,10 +69,7 @@ Advanced: Make a series of notebooks or explain a complicated/advanced topic
  
  
 ## Expectations from the project
-There will be a variety of issues, some easy to get you started and one harder to make you 
-significantly contribute. But I'll set down the minimum expected work that you should do to 
-pass. By medievals, you should have at least one new notebook and by endevals, you should have 
-at least three new notebooks ready. Each notebook should have some introduction to the topic, 
+There will be a variety of issues, some easy to get you started and one harder to make you significantly contribute. But I'll set down the minimum expected work that you should do to pass. By medievals, you should have at least one new notebook and by endevals, you should have at least three new notebooks ready. Each notebook should have some introduction to the topic, 
 mathematical proofs if required, the code to implement that topic from scratch, and any ready-made
 library code, if available. 
  
@@ -103,3 +100,5 @@ She can be reached at pankhurisaxena[dot]iitkgp[at]gmail[dot]com.
 		</td>
 	</tr>
 </table>
+
+
